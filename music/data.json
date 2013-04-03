@@ -1,0 +1,17 @@
+{
+    "events":
+    [
+        {
+            "section": "Concerts",
+            "locations":
+                [
+                {"id":"2013_04_01_Sigur_Rós","name":"Sigur Rós","masthead":"Sigur Rós","venue":"Fox Theater","location":"Detroit, MI","date":"Monday 4/1/2013 7:30 PM","opener":"","details":"Just. Go. To. This. Show.","url":"http://www.ticketmaster.com/event/0800495F91392254"},
+                {"id":"2013_04_04_Wavves","name":"Wavves","masthead":"Wavves","venue":"Magic Stick Lounge","location":"Detroit, MI","date":"Thursday 4/4/2013 7 PM","opener":"With Fidlar and Cheetah","details":"Fuzzy guitars, surfy vibes and heavy-duty '90s influence. Blogger and professional critic faves, Wavves, hit up the Magic Stick in support of their brand new release, <I>Afraid of Heights.</I>","url":"http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=3368984&pl=majestic"},
+                {"id":"2013_04_12_Kendrick_Lamar","name":"Kendrick Lamar","masthead":"Kendrick Lamar","venue":"Meadowbrook Music Festival","location":"Rochester Hills, MI","date":"Friday 4/12/2013 7 PM","opener":"With Steve Aoki","details":"Who else can sample Janet like that? No one, and that’s only one of the reasons to get to this show. Hailed by some as the best rap album since <I>The Chronic</I>, Lamar’s official debut, <I>Good Kid, M.A.A.D. City</I>, pulls out everything you love about West Coast rap.","url":"http://www.ticketmaster.com/event/08004A3FE664687B?artistid=1480454&majorcatid=10001&minorcatid=3"},
+                {"id":"2013_04_17_Alicia_Keys","name":"Alicia Keys","masthead":"Alicia Keys","venue":"Joe Louis Arena","location":"Detroit, MI","date":"Wednesday 4/17/2013 7:30 PM","opener":"With Miguel","details":"Grammy Award-winning, multi-platinum-selling songstress Alicia Keys comes to the Joe with her “Set the World On Fire” tour. If you’ve never heard her incredible vocals in person, it’s time to get to it. Also on the bill is R&B’s rising star, Miguel.","url":"http://www.ticketmaster.com/Alicia-Keys-tickets/artist/807171"},
+                {"id":"2013_04_18_marnie_stern","name":"Marnie Stern","masthead":"Marnie Stern","venue":"Magic Stick Lounge","location":"Detroit, MI","date":"Thursday  4/18/2013 8:00 PM","opener":"With Roomrunner","details":"Guitar virtuoso Marnie Stern brings her glorious riffs to the Magic Stick in support of her brand new release, <i>The Chronicles of Marnia</i>. She’s fresh off tremendous buzz from SXSW, so we’re pretty sure it will be one of those shows that’s talked about years later.","url":"http://majesticdetroit.com/majestic-upcoming-events/marnie-stern-roomrunner.html"},
+                {"id":"2013_04_10_Dale Earnhardt Jr_Jr","name":"Dale Earnhardt Jr. Jr.","masthead":"Dale Earnhardt Jr. Jr.","venue":"Majestic Theatre","location":"Detroit, MI","date":"Saturday 4/20/2013 8 PM","opener":"With Stepdad and Tunde Olaniran","details":"Dale Earnhardt Jr. Jr. kicks off a sprinkling of spring tour dates with this hometown show that’s not to be missed. It’s a bill full of Michigan bands on the verge; the mesmerizing Tunde Olanirian is on tap for the night as well as Grand Rapids breakouts Stepdad.","url":"http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=3396864&pl=majestic"}
+                ]
+        }
+    ]
+}

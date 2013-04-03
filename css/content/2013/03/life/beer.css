@@ -1,0 +1,41 @@
+.intro .photographer {
+    margin: 80px 0 0;
+    }
+
+
+.intro .title {
+    height: 540px;
+    background: url('/img/content/2013/03/life/beer_intro.jpg') no-repeat bottom center;
+    }
+    
+    .intro .title h1 {
+        font-size: 150px;
+        text-align: center;
+        padding: 180px 0 0;
+        margin: 0;
+        color: #fff;
+        }
+        
+
+.product .desc_notes p {
+    font-family: foundation_sans_cd_ltregular;
+    text-transform: uppercase;
+    line-height: 28px;
+    font-size: 20px;
+    }
+
+    .product .desc_notes p strong {
+        font-family: foundation_sans_cdbold;
+        text-transform: uppercase;
+        line-height: 28px;
+        font-size: 21px;
+        }
+
+
+.plate { height: 540px; background: no-repeat bottom center; }
+
+#bishop_bob { background-image: url('/img/content/2013/03/life/beer_bishop_bob.jpg'); }
+#dubbel_vision { background-image: url('/img/content/2013/03/life/beer_dubbel_vision.jpg'); }
+#simcoe_silly { background-image: url('/img/content/2013/03/life/beer_simcoe_silly.jpg'); }
+#ghettoblaster { background-image: url('/img/content/2013/03/life/beer_ghettoblaster.jpg'); }
+#black_bottom { background-image: url('/img/content/2013/03/life/beer_black_bottom.jpg'); }

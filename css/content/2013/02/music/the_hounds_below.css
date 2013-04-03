@@ -1,0 +1,38 @@
+.intro .photographer {
+    margin: 80px 0 0;
+    }
+
+
+.intro .title {
+    height: 540px;
+    background: url('/img/content/2013/02/music/hounds_intro.jpg') no-repeat bottom center;
+    }
+    
+    .intro .title h1 {
+        font-size: 150px;
+        text-align: center;
+        padding: 180px 0 0;
+        margin: 0;
+        color: #fff;
+        }
+        
+.intro p { 
+    text-align: left;
+    }
+    
+    
+/*
+    Quotes
+*/
+#q_1 .q_a {font-size: 170px; line-height: 117px}
+#q_1 .q_b {font-size: 316px; line-height: 232px; padding-left: 110px;}
+#q_1 .q_c {font-size: 32px; line-height: 24px; padding-left: 360px;}
+
+#q_2 .q_a {font-size: 38px; text-align: center;}
+
+.gallery_link {
+    padding: 72px 0;
+    }
+    
+    .gallery_link h1 { font-size: 170px; line-height: 120px; padding: 0 0 16px; margin: 0; letter-spacing: 4px;}
+    .gallery_link h3 { font-size: 32px; padding: 0; margin: 0; }

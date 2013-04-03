@@ -1,0 +1,22 @@
+.intro .title {
+    height: 540px;
+    }
+    
+    .intro .title h1 {
+        font-size: 260px;
+        text-align: center;
+        padding: 60px 0 0;
+        line-height: 220px;
+        margin: 0;
+        color: #000;
+        }
+
+#main_content { height: 1373px; background: url('/img/content/2013/02/style/layered_up_main.jpg') no-repeat bottom center; }
+
+#main_content p { position: absolute;}
+
+#callout_1 { top: 65px; }
+#callout_2 { top: 160px; }
+#callout_3 { top: 665px; }
+#callout_4 { top: 1010px; }
+#callout_5 { top: 1250px; }

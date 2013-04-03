@@ -1,0 +1,33 @@
+.intro .title {
+    height: 540px;
+    background: url('/img/content/2013/02/life/objects_intro.jpg') no-repeat bottom center;
+    }
+    
+    .intro .title h1 {
+        font-size: 125px;
+        text-align: center;
+        padding: 180px 0 0;
+        margin: 0;
+        color: #fff;
+        }
+        
+#basil_chair .content { padding-top: 242px; }
+#basil_chair .item { height: 540px; background: url('/img/content/2013/02/life/objects_basil.jpg') no-repeat bottom center; }
+
+
+#guard_dog .content { padding-top: 172px; }
+#guard_dog .item { height: 441px; background: url('/img/content/2013/02/life/objects_guard_dog.jpg') no-repeat bottom center; }
+
+#clock .content { padding-top: 172px; }
+#clock .item { height: 475px; background: url('/img/content/2013/02/life/objects_clock.jpg') no-repeat bottom center; }
+
+#reading .item { height: 555px; background: url('/img/content/2013/02/life/objects_reading.jpg') no-repeat bottom center; }
+
+#bowls .content { padding-top: 172px; }
+#bowls .item { height: 484px; background: url('/img/content/2013/02/life/objects_bowls.jpg') no-repeat bottom center; }
+
+#gramaphone .content { padding-top: 172px; }
+#gramaphone .item { height: 459px; background: url('/img/content/2013/02/life/objects_gramaphone.jpg') no-repeat bottom center; }
+
+#chairs .content { padding-top: 172px; }
+#chairs .item { height: 574px; background: url('/img/content/2013/02/life/objects_chairs.jpg') no-repeat bottom center; }

@@ -1,0 +1,20 @@
+{
+    "events":
+    [
+        {
+            "section": "Events",
+            "locations":
+                [
+                {"id":"event_mike_tyson","masthead":"Mike Tyson: Undisputed Truth","name":"Mike Tyson: Undisputed Truth","address":"Fox Theater 2211 Woodward Ave. Detroit, MI 48201","date":"4/6/2013","time":"8 PM","url":"http://www.OlympiaEntertainment.com/default.asp?olympia=46&objId=626"},
+                {"id":"event_memphis","masthead":"Memphis","name":"Memphis","address":"Fisher Theater 3011 W. Grand Blvd. Detroit, MI 48202","date":"4/9/13 - 4/21/13","time":"-","url":"http://www.broadwayindetroit.com/engine.cfm?i=126"},
+                {"id":"event_david_sedaris","masthead":"David Sedaris","name":"David Sedaris","address":"Hill Auditorium 825 N. University Ave. Ann Arbor, MI, 48109","date":"4/13/2013","time":"2 PM","url":"http://www.ticketmaster.com/event/08004A4BCB687D88?artistid=806078&majorcatid=10002&minorcatid=51"},
+                {"id":"event_demetri_martin","masthead":"Demetri Martin","name":"Demetri Martin","address":"Royal Oak Music Theater 318 W 4th St,  Royal Oak, MI 48067","date":"4/2/2013","time":"7:30 PM","url":"http://www.royaloakmusictheatre.com/index.php?option=com_wrapper&view=wrapper&Itemid=54"},
+                {"id":"event_kresge_art","masthead":"Art X Detroit","name":"Art X Detroit","address":"Midtown ","date":"4/10/13 - 4/14/13","time":"-","url":"http://www.artxdetroit.com"},
+                {"id":"event_opening_day","masthead":"Tigers Opening Day ","name":"Tigers Opening Day ","address":"Downtown Detroit ","date":"4/5/2013","time":"10 AM","url":"http://detroit.tigers.mlb.com/index.jsp?c_id=det"},
+                {"id":"event_house_art","masthead":"Red Bull House of Art Gallery Opening ","name":"Red Bull House of Art Gallery Opening ","address":"Red Bull House of Art Detroit  1551 Winder  Detroit, Michigan 48207 ","date":"4/12/2013","time":"6 PM","url":"http://www.facebook.com/RedBullHouseOfArt"},
+                {"id":"event_restaurant_week","masthead":"Detroit Restaurant Week ","name":"Detroit Restaurant Week ","address":"Participating Detroit Retaurants ","date":"4/19/2013 - 4/23/2013","time":"","url":"http://www.detroitrestaurantweek.com"},
+                {"id":"prince_jackson_experience","masthead":"Prince and Michael Jackson Experience","name":"Prince and Michael Jackson Experience","address":"St. Andrews  431 E Congress St. Detroit, MI 48226","date":"4/26/2013","time":"8 PM","url":"http://saintandrewsdetroit.com/event/08004A54A326487D"}
+                ]
+        }
+    ]
+}

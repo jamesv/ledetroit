@@ -1,0 +1,60 @@
+/*
+    Color/Type scheme
+*/
+
+
+
+/*
+    Layout
+*/
+
+.intro .title { height: 540px; }
+.intro .title h1 { font-size: 150px; text-align: center; padding: 180px 0 0; margin: 0; color: #fff; }
+
+
+.intro h4 { text-align: center; padding: 128px 0; }
+.intro p { text-align: center; }
+.intro .photographer { font-family: arial; font-weight: bold; font-size: 11px; background: url('/img/ui_photographer.gif') no-repeat top center; text-align: center; margin: 80px 0; padding-top: 36px; text-transform: uppercase;}
+.dark .intro .photographer { background-image: url('/img/ui_photographer_dark.gif');}
+
+.intro .credits {text-align: center; padding: 64px 24px 64px 0;}
+.intro .credits strong { text-transform: uppercase; padding: 0 8px 0 32px; }
+
+.product h2 { text-align: center; padding: 80px 0; }
+.product h6 { font-size: 32px; border-bottom: 1px solid #000; padding-bottom: 32px; margin-bottom: 32px; }
+p.big { font-family: foundation_sans_cd_ltregular; text-transform: uppercase; font-size: 20px; line-height: 28px;}
+p.big strong { font-family: foundation_sans_cdregular; text-transform: uppercase; font-size: 20px; line-height: 30px; letter-spacing: 1px;}
+
+.product {
+    position: relative;
+    }
+
+.product .desc {
+    text-align: center;
+    padding: 32px 0 64px;
+    }
+
+.product .desc_notes {
+    text-align: center;
+    padding: 32px 0 0;
+    }
+    
+.product .notes {
+    text-align: center;
+    padding: 0 0 0 32px;
+    }
+
+.gallery_button {font-family: arial; text-transform: uppercase; font-size: 10px;}
+.gallery_button img {display: block; margin: 32px auto 16px;}
+.gallery_button a {text-decoration: none}
+    
+    
+.quote { font-family: foundation_sans_cdbold; text-transform: uppercase; }
+.quote_bar { width: 64px; margin: 64px auto; border-bottom: 1px solid #000;}
+
+#fin { padding-bottom: 64px; }
+#fin h1 { font-size: 150px; text-align: center;}
+#fin #bon { font-family: foundation_sans_cdbold; width: 300px; font-size: 36px; margin: 0 auto; text-align: center; }
+#fin .bon { position: relative; top: -4px; margin-left: 8px;}
+#fin .share { text-align: right; position: relative; top: -26px;}
+#fin .fb-like { position: relative; top: -3px; padding-right: 16px;}

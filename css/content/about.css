@@ -1,0 +1,18 @@
+.about .main {
+    background: #121212;
+    padding-top: 48px;
+    }
+    
+    
+    .about .copy {
+        margin-bottom: 120px;
+        }
+        
+    .about .copy p {
+        text-align: center;
+        font-size: 22px;
+        line-height: 48px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-family: foundation_sans_cd_ltregular;
+    }

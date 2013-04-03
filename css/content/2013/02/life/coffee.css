@@ -1,0 +1,40 @@
+.intro .photographer {
+    margin: 80px 0 0;
+    }
+
+
+.intro .title {
+    height: 540px;
+    background: url('/img/content/2013/02/life/coffee_intro.jpg') no-repeat bottom center;
+    }
+    
+    .intro .title h1 {
+        font-size: 150px;
+        text-align: center;
+        padding: 180px 0 0;
+        margin: 0;
+        color: #fff;
+        }
+        
+
+.product .desc_notes p {
+    font-family: foundation_sans_cd_ltregular;
+    text-transform: uppercase;
+    line-height: 28px;
+    font-size: 20px;
+    }
+
+    .product .desc_notes p strong {
+        font-family: foundation_sans_cdbold;
+        text-transform: uppercase;
+        line-height: 28px;
+        font-size: 21px;
+        }
+
+
+.plate { height: 540px; background: no-repeat bottom center; }
+
+#greatlakes { background-image: url('/img/content/2013/02/life/coffee_greatlakes.jpg'); }
+#astro { background-image: url('/img/content/2013/02/life/coffee_astro.jpg'); }
+#conleche { background-image: url('/img/content/2013/02/life/coffee_conleche.jpg'); }
+#germack { background-image: url('/img/content/2013/02/life/coffee_germack.jpg'); }

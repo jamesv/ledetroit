@@ -1,0 +1,26 @@
+.intro .title {
+    height: 540px;
+    background: url('/img/content/2013/02/style/rouge_intro.jpg') no-repeat bottom center;
+    }
+    
+    .intro .title h1 {
+        font-size: 150px;
+        text-align: center;
+        padding: 240px 0 0;
+        margin: 0;
+        }
+        
+#chanel { height: 540px; background: url('/img/content/2013/02/style/rouge_chanel.jpg') no-repeat bottom center; }
+#chanel h3 { padding-top: 330px; }
+
+#sephora { height: 540px; background: url('/img/content/2013/02/style/rouge_sephora.jpg') no-repeat bottom center; }
+#sephora h3 { padding-top: 290px; }
+
+#loreal { height: 540px; background: url('/img/content/2013/02/style/rouge_loreal.jpg') no-repeat bottom center; }
+#loreal h3 { padding-top: 300px; }
+
+#opi { height: 540px; background: url('/img/content/2013/02/style/rouge_opi.jpg') no-repeat bottom center; }
+#opi h3 { padding-top: 330px; }
+
+#sally { height: 540px; background: url('/img/content/2013/02/style/rouge_sally.jpg') no-repeat bottom center; }
+#sally h3 { padding-top: 370px; }
