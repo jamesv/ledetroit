@@ -1,0 +1,42 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        font-family: 'foundation_sans_cd_ltregular';
+        color: #000;
+        font-size: 180px;
+        text-align: center;
+        padding: 128px 0 0;
+        margin: 0;
+        }
+        
+        .intro .title span {
+            color: #ff6e5c;
+            }
+
+p.big { letter-spacing: 2px; }
+
+#group  { height: 540px; background: url('/img/content/2013/04/style/flats_group.jpg') no-repeat bottom center; }
+        
+#mila .content { padding-top: 170px; }
+#mila  { height: 540px; background: url('/img/content/2013/04/style/flats_jcrew.jpg') no-repeat bottom center; }
+
+#quorra .content { padding-top: 170px; }
+#quorra  { height: 540px; background: url('/img/content/2013/04/style/flats_gold.jpg') no-repeat bottom center; }
+
+#manhattan .content { padding-top: 170px; }
+#manhattan  { height: 540px; background: url('/img/content/2013/04/style/flats_colehaan.jpg') no-repeat bottom center; }
+
+#suede .content { padding-top: 170px; }
+#suede  { height: 540px; background: url('/img/content/2013/04/style/flats_madewell.jpg') no-repeat bottom center; }
+
+#hole .content { padding-top: 170px; }
+#hole { height: 540px; background: url('/img/content/2013/04/style/flats_red.jpg') no-repeat bottom center; }
+
+#novelty .content { padding-top: 170px; }
+#novelty  { height: 540px; background: url('/img/content/2013/04/style/flats_gap.jpg') no-repeat bottom center; }
+
+#kors .content { padding-top: 170px; }
+#kors  { height: 540px; background: url('/img/content/2013/04/style/flats_nordstrom.jpg') no-repeat bottom center; }
+

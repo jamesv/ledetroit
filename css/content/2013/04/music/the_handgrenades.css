@@ -1,0 +1,37 @@
+.intro .photographer {
+    margin: 80px 0 0;
+    }
+
+    .intro .title {
+        height: auto;
+    }
+
+    .intro .title h1 {
+        font-size: 150px;
+        line-height: 140px;
+        text-align: center;
+        padding: 180px 0;
+        margin: 0;
+        color: #000;
+        }
+
+    .intro  h4 {
+        padding: 64px 0;
+        }
+
+        .intro .credits {
+            padding: 0;
+            }
+        
+
+        
+h4.light {
+    text-align: center;
+    }    
+
+.gallery_link {
+    padding: 72px 0;
+    }
+    
+    .gallery_link h1 { font-size: 170px; line-height: 120px; padding: 0 0 16px; margin: 0; letter-spacing: 4px;}
+    .gallery_link h3 { font-size: 32px; padding: 0; margin: 0; }
