@@ -1,0 +1,43 @@
+{
+    "2013_04_music_handgrenades": {
+        "name": "The HandGrenades",
+        "sub":  "The HandGrenades make rock 'n' roll fun again.",
+        "url":  "/2013/04/music/the_handgrenades.php",
+        "cat":  "Music"
+    },
+    "2013_04_life_handgrenades_gallery": {
+        "name": "Snapped: The HandGrenades",
+        "sub":  "Check out the complete photo session.",
+        "url":  "/2013/04/life/the_handgrenades_gallery.php",
+        "cat":  "Life"
+    },
+    
+    "2013_04_femme_flats": {
+        "name": "A little spring in your step",
+        "sub":  "Ballet flats take a turn in neutrals and brights.",
+        "url":  "/2013/04/style/femme_flats.php",
+        "cat":  "Femme"
+    },
+    "2013_04_femme_rain": {
+        "name": "Make a Splash",
+        "sub":  "Rain gear that makes rainy days a little less dreary.",
+        "url":  "/2013/04/style/femme_rain.php",
+        "cat":  "Femme"
+    },
+    
+    "2013_04_homme_socks": {
+        "name": "Step Lively",
+        "sub":  "The best socks for keeping your look on point.",
+        "url":  "/2013/04/style/homme_socks.php",
+        "cat":  "Homme"
+    },
+    "2013_04_homme_jackets": {
+        "name": "The Spring Jacket",
+        "sub":  "Spring has finally arrived. Now get yourself<br/>a proper jacket to go along with it.",
+        "url":  "/2013/04/style/homme_jackets.php",
+        "cat":  "Homme"
+    }
+    
+    
+    
+}

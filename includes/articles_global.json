@@ -1,0 +1,11 @@
+{
+    
+    "about_us": {
+        "name": "About Le Détroit",
+        "sub":  "Who do we think we are? Find out here.",
+        "url":  "/about.php",
+        "cat":  "About Us",
+        "no_caption": true
+    }
+    
+}

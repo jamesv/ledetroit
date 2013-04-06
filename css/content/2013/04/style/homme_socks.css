@@ -1,0 +1,29 @@
+.intro {
+    padding-bottom: 64px;
+    }
+.intro .title {
+    height: 540px;
+    }
+    
+    .intro .title h1 {
+        font-size: 150px;
+        text-align: center;
+        padding: 240px 0 0;
+        margin: 0;
+        }
+        
+#happy { height: 540px; background: url('/img/content/2013/04/style/socks_happysocks.jpg') no-repeat top left; }
+#happy p { padding-top: 128px; }
+#happy p span {color: #e7b201; }
+
+#jcrew { height: 540px; background: url('/img/content/2013/04/style/socks_jcrew.jpg') no-repeat top left; }
+#jcrew p { padding-top: 200px; }
+#jcrew p span {color: #0158c4; }
+
+#hugo { height: 1028px; background: url('/img/content/2013/04/style/socks_boss.jpg') no-repeat top left; }
+#hugo p { padding-top: 588px; }
+#hugo p span {color: #b53b00; }
+
+#calvin { height: 540px; background: url('/img/content/2013/04/style/socks_calvinklein.jpg') no-repeat top left; }
+#calvin p { padding-top: 345px; }
+#calvin p span {color: #d7a9b1; }

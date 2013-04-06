@@ -1,6 +1,27 @@
 <?php
-$articles_json = file_get_contents($doc_root .'/includes/articles.json');
-$GLOBALS['decoded_articles'] = json_decode($articles_json);
+function array_to_object($array) {
+  $obj = new stdClass;
+  foreach($array as $k => $v) {
+     if(is_array($v)) {
+        $obj->{$k} = array_to_object($v); //RECURSION
+     } else {
+        $obj->{$k} = $v;
+     }
+  }
+  return $obj;
+}
+
+
+$articles_global_json = file_get_contents($doc_root .'/includes/articles_global.json');
+$articles_2013_02_json = file_get_contents($doc_root .'/includes/articles_2013_02.json');
+$articles_2013_04_json = file_get_contents($doc_root .'/includes/articles_2013_04.json');
+$GLOBALS['decoded_articles'] = array_merge_recursive(
+    json_decode($articles_global_json, true),
+    json_decode($articles_2013_02_json, true),
+    json_decode($articles_2013_04_json, true)
+);
+
+$GLOBALS['decoded_articles'] = array_to_object($GLOBALS['decoded_articles']);
 
 $doc_root = $_SERVER['DOCUMENT_ROOT'];
 include_once($doc_root . '/includes/config.php'); 
@@ -92,7 +113,7 @@ function drawArticlesGrid($articles, $print=true) {
 
         $grid .= "      <div class='detail c'>";
         $grid .= "          <h3>".$article->name."</h3>";
-        $grid .= "          <p class='col_3'>".$article->sub."</p>";
+        $grid .= "          <p>".$article->sub."</p>";
         $grid .= "          <h6>".$article->cat."</h6>";
         $grid .= "          <div class='cta'>View<img src='/img/ui_cta_arrow.png' /></div>";
         $grid .= "      </div>";
