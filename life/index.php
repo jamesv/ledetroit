@@ -25,9 +25,10 @@
             
             <?php
                 $grid_articles = array(
-                    array('2013_02_the_hounds_below_gallery',4),
+                    array('2013_04_life_handgrenades_gallery',4),
                     array('2013_02_coffee',4),
-                    array('2013_02_objects_of_desire',4)
+                    array('2013_02_objects_of_desire',4),
+                    array('2013_02_the_hounds_below_gallery',8)
                 );
                 drawArticlesGrid($grid_articles);
             ?>
