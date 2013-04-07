@@ -267,7 +267,8 @@ function fin($id, $light=false) {
     $fin .= "</div>";
     
     $featured_articles_wide = array(
-        array('2013_02_the_hounds_below',8)
+        array('2013_02_the_hounds_below',8),
+        array('2013_04_music_handgrenades',8)
     );
     $featured_articles_narrow = array(
         array('2013_02_homme_layered_up',4),
