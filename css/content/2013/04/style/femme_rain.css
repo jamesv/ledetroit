@@ -1,0 +1,38 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        font-family: 'foundation_sans_cd_ltregular';
+        color: #000;
+        font-size: 180px;
+        text-align: center;
+        padding: 64px 0 0;
+        margin: 0;
+        }
+        
+            .intro h4 {
+                padding: 64px 0 0;
+                }
+                
+                .intro .credits {
+                    padding: 64px 0 128px;
+                    }
+                
+
+p.big { letter-spacing: 1px; }
+
+        
+#group .content { padding-top: 170px; }
+#group .content_b { padding-top: 100px; }
+#group .content_c { padding-top: 470px; }
+#group  { height: 1274px; background: url('/img/content/2013/04/style/rain_group.jpg') no-repeat bottom center; }
+
+#kors .content { padding-top: 170px; }
+#kors  { height: 540px; background: url('/img/content/2013/04/style/rain_kors.jpg') no-repeat bottom center; }
+
+#bauer .content { padding-top: 300px; }
+#bauer  { height: 540px; background: url('/img/content/2013/04/style/rain_bauer.jpg') no-repeat bottom center; }
+
+#banana .content { padding-top: 170px; }
+#banana  { height: 540px; background: url('/img/content/2013/04/style/rain_banana.jpg') no-repeat bottom center; }

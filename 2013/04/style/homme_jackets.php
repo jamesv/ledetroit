@@ -73,7 +73,6 @@
 
 
     
-    <?php $GLOBALS['related_articles'] = array('2013_02_homme_layered_up','2013_02_homme_denim'); ?>
     
     <?php fin($page['id']); ?>    
         
