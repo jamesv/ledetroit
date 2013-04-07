@@ -13,7 +13,7 @@
                 <div class='col col_12 masthead last'>
                 <?php
                     $masthead_items = array(
-                        array('2013_02_music_the_hounds_below.jpg','/2013/02/music/the_hounds_below.php','The Hounds Below','Get to know The Hounds Below')
+                        array('2013_04_music_handgrenades.jpg','/2013/04/music/the_handgrenades.php','The Handgrenades','The HandGrenades make rock \'n roll fun again')
                     );
 
                     drawMasthead($masthead_items);
