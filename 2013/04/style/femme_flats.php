@@ -30,7 +30,7 @@
     </div>
     <div class='callout_row'>
         <span><strong>Mila Cap Toe Leather Ballet Flats</strong> $148</span>
-        <strong>Available at:</strong> J Crew
+        <strong>Available at:</strong> J. Crew
     </div>
     </div>
 
@@ -43,7 +43,7 @@
     </div>
     <div class='callout_row'>
         <span><strong>Quorra Ballet Flats</strong> $148</span>
-        <strong>Available at:</strong> J Crew
+        <strong>Available at:</strong> J. Crew
     </div>
     </div>
 

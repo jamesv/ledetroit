@@ -184,7 +184,7 @@ function drawGallery($items, $link, $id, $close_btn=false, $lightbox=false) {
     }
     $masthead .= "        fx:     'scrollHorz', \n";
     $masthead .= "        easing: 'easeOutQuad', \n";
-    $masthead .= "        speed:  500, \n";
+    $masthead .= "        speed:  600, \n";
     $masthead .= "        timeout: ".$timeout."\n";
     $masthead .= "    });\n";
     $masthead .= "</script>\n";
@@ -267,23 +267,20 @@ function fin($id, $light=false) {
     $fin .= "</div>";
     
     $featured_articles_wide = array(
-        array('2013_02_the_hounds_below',8),
         array('2013_04_music_handgrenades',8)
     );
     $featured_articles_narrow = array(
-        array('2013_02_homme_layered_up',4),
-        array('2013_02_homme_wool',4),
-        array('2013_02_homme_denim',4),
-        array('2013_02_femme_rouge',4),
-        array('2013_02_coffee',4),
-        array('2013_02_femme_look_of_love',4),
-        array('2013_02_objects_of_desire',4)
+        array('2013_04_homme_socks',4),
+        array('2013_04_homme_jackets',4),
+        array('2013_04_femme_rain',4),
+        array('2013_04_femme_flats',4)
+
     );    
     $featured_articles = array($featured_articles_wide[array_rand($featured_articles_wide)], $featured_articles_narrow[array_rand($featured_articles_narrow)]);
     
     $fin .= "<div class='featured'>";
     $fin .= "<div class='cols col_grid ac'>";
-    $fin .= "<div class='col col_12 last'><strong class='inset_title'>Featured:</strong></div>";
+    $fin .= "<div class='col col_12 last'><strong class='inset_title'>Featured</strong></div>";
     $fin .= drawArticlesGrid($featured_articles, false);
     $fin .= "</div>";
     $fin .= "</div>";

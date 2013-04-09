@@ -44,6 +44,25 @@ p.big strong { font-family: foundation_sans_cdregular; text-transform: uppercase
     padding: 0 0 0 32px;
     }
 
+
+
+.gallery {
+    margin: 128px 0 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    }
+
+    .gallery_link {
+        padding: 128px 0;
+        }
+        
+        .gallery_link a {
+            margin-top: 128px;
+        }
+
+    .gallery_link h1 { font-size: 170px; line-height: 120px; padding: 0 0 16px; margin: 0; letter-spacing: 4px;}
+    .gallery_link h3 { font-size: 32px; padding: 0; margin: 0; }
+
 .gallery_button {font-family: arial; text-transform: uppercase; font-size: 10px;}
 .gallery_button img {display: block; margin: 32px auto 16px;}
 .gallery_button a {text-decoration: none}

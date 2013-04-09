@@ -41,7 +41,7 @@
                         foreach($section->locations as $location) {
                             print "<li>";
                             print "<a href='detail.php?id=".$location->id."'><h5>".$location->name."</h5>";
-                            print "<span>".$location->address."</span></a>";
+                            print "<span>".$location->date." @ ".$location->address."</span></a>";
                             print bonDraw($location->id);
                             print "</li>";
                         }

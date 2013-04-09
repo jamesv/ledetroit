@@ -54,7 +54,7 @@
     </div>
     <div class='callout_row'>
         <span><strong>Ghille Jacket</strong> $228</span>
-        <strong>Available at:</strong> J Crew
+        <strong>Available at:</strong> J. Crew
     </div>
     </div>
 
@@ -67,7 +67,7 @@
     </div>
     <div class='callout_row'>
         <span><strong>Slim-Fit Trucker</strong> $88</span>
-        <strong>Available at:</strong> Levi
+        <strong>Available at:</strong> Levi's
     </div>
     </div>
 

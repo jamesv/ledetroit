@@ -71,6 +71,7 @@
             
         </div>
         
+        <div class='gallery'>
         <div class='cols ac'>
             <div class='col col_12 last gallery_link c'>
             <h3>The Hounds Below</h3>
@@ -78,6 +79,7 @@
             <p>Check out the complete photo session</p>
             <a class='btn link_btn col_2 col_offset_5' href='/2013/02/life/the_hounds_below_gallery.php'>Go</a>
             </div>
+        </div>
         </div>
         
         <?php fin($page['id']); ?>

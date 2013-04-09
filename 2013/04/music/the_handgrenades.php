@@ -1,7 +1,7 @@
 <?php
     $page = array(
         'id' => '2013_04_the_handgrenades',
-        'title' => 'The Handgrenades',
+        'title' => 'Nothing But a Good Time',
         'class' => 'music',
         'content_css' => true
     );
@@ -39,7 +39,7 @@
                 <div class='col col_8 last'>
                     <div class='p_cols_2'>
                     <p>“I just threw it and—gone,” adds Chevillet. “Never saw it again. It was so windy. We looked for it everywhere.” </p>
-                    <p>The HandGrenades come equipped with a youthful exuberance and a knack for not taking themselves too seriously, which is a welcomed break from indie rock self-consciousness. Their album is called The Morning After, in honor of times like this one, when they losejackets to the wind and come home with a hundred stories to tell. They’re disorderly gentlemen who crack jokes and goof around one minute, then hold open doors and watch their mouths in front of the fairer sex the next.</p>
+                    <p>The HandGrenades come equipped with a youthful exuberance and a knack for not taking themselves too seriously, which is a welcomed break from indie rock self-consciousness. Their album is called <em>The Morning After</em>, in honor of times like this one, when they losejackets to the wind and come home with a hundred stories to tell. They’re disorderly gentlemen who crack jokes and goof around one minute, then hold open doors and watch their mouths in front of the fairer sex the next.</p>
                     <p>The group, which also includes singer/guitarist Tom Pawelski (yep, they’re brothers) and drummer Joby Kaslowski, most definitely wears its influences on its rolled-up sleeve. They're unabashed Beatles fan boys who've done their homework, singing swoon-worthy three-part harmonies that recall the Fab Four, but have a healthy edge that propels their sound into current status. </p>
                     <p>Some of that edge can be credited to Kaslowski, the most recent addition to the band, who brought with him a quicker pace. “Now we’re sort of a rock ‘n’ roll band with a punk drummer,” says Chevillet. “Once Joby joined the band the tempo changed. We look back at videos from before, and it’s like how did we play that song?”</p>
                     
@@ -74,6 +74,7 @@
         
         
         
+        <div class='gallery'>
         <div class='cols ac'>
             <div class='col col_12 last gallery_link c'>
             <h3>The Handgrenades</h3>
@@ -81,6 +82,7 @@
             <p>Check out the complete photo session</p>
             <a class='btn link_btn col_2 col_offset_5' href='/2013/04/life/the_handgrenades_gallery.php'>Go</a>
             </div>
+        </div>
         </div>
         
         <?php fin($page['id']); ?>

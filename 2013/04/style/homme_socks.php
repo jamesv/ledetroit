@@ -43,8 +43,8 @@
             </div>
         </div>
         <div class='callout_row'>
-            <span><strong>J Crew Dot Sock</strong> $12.50</span>
-            <strong>Available at:</strong> J Crew
+            <span><strong>J. Crew Dot Sock</strong> $12.50</span>
+            <strong>Available at:</strong> J. Crew
         </div>
         
         <div id='hugo' class='cols product ac'>
@@ -55,7 +55,7 @@
             </div>
         </div>
         <div class='callout_row'>
-            <span><strong>Hugo Boss Basil Chair</strong> $12.50</span>
+            <span><strong>Hugo Boss Striped Socks</strong> $12.50</span>
             <strong>Available at:</strong> Hugo Boss
         </div>
         
