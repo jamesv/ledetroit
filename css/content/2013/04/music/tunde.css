@@ -1,0 +1,41 @@
+.intro .photographer {
+    margin: 80px 0 0;
+    }
+
+    .intro .title {
+        height: auto;
+    }
+
+    .intro .title h1 {
+        font-size: 150px;
+        line-height: 140px;
+        text-align: center;
+        padding: 128px 0;
+        margin: 0;
+        color: #000;
+        }
+
+    .intro  h4 {
+        padding: 64px 0;
+        }
+
+        .intro .credits {
+            padding: 0 32px 0 0;
+            }
+
+.qa {
+    padding-top: 128px;
+    padding-bottom: 128px;
+    }
+    
+.qa p {
+    text-align: justify;
+    }
+
+.qa .a {
+    font-style: italic;
+    }
+
+    .qa .a strong {
+        font-style: normal;
+        }
