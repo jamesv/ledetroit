@@ -18,7 +18,7 @@
             <h4>Marching to the beat of his own synth</h4>
             <div class='credits'>
                 <strong>Words</strong> Marguerite Adragna
-                <strong>Photographer</strong> Chris Arace
+                <strong>Photography</strong> Chris Arace
             </div> 
             
         </div>
@@ -124,7 +124,7 @@
             <h3>Tunde Olaniran</h3>
             <h1>LIVE</h1>
             <p>Saturday, April 20th at the Majestic Theater</p>
-            <a class='btn link_btn col_2 col_offset_5' href='#'>Details</a>
+            <a class='btn link_btn col_2 col_offset_5' href='/music/detail.php?id=2013_04_10_Dale%20Earnhardt%20Jr_Jr'>Details</a>
             </div>
         </div>
         </div>
