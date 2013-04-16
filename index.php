@@ -16,7 +16,7 @@
                         array('2013_04_tunde.jpg','/2013/04/music/tunde.php','Music','Tunde Olaniran',),
                         array('2013_04_femme_rain.jpg','/2013/04/style/femme_rain.php','Femme','Rain gear that makes rainy days less dreary'),
                         array('2013_04_homme_jackets.jpg','/2013/04/style/homme_jackets.php','Homme','The Spring Jacket'),
-                        array('2013_02_life_objects_of_desire.jpg','/2013/02/life/objects_of_desire.php','Life','Objects of Desire'),
+                        array('2013_04_music_handgrenades.jpg','/2013/04/music/the_handgrenades.php','Music','The HandGrenades',),
                         array('2013_02_life_coffee.jpg','/2013/02/life/coffee.php','Life','The Daily Grind')
                     );
                     

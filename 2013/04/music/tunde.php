@@ -36,7 +36,7 @@
             </div>
             
             <div class='col col_6 col_offset_3 last qa'>
-                <p><strong>LD</strong> You describe yourself as “a cultural warrior with a 4-octave range and a penchant for dirty synths.” </p>
+                <p><strong>LD</strong> You describe yourself as “a cultural warrior with a four-octave-range and a penchant for dirty synths.” </p>
                 <p class='a'><strong>TUNDE</strong> Yes [laughs]. That came from Twitter when I needed a bio.</p>
 
                 <p><strong>LD</strong> I want to talk about each of those things. First, what do you mean by cultural warrior?</p>
@@ -105,7 +105,7 @@
                 <p class='a'><strong>TUNDE</strong> I’m recording it in April. There’s also a song with Passalacqua on the album. I’m hoping for summer time, June. It’s party, summery music.</p>
 
                 <p><strong>LD</strong> What’s the name of it?</p>
-                <p class='a'><strong>TUNDE</strong> I don’t have it yet! I want to do something really trifling and name it something like, “#Wratchetry.” Just something ridiculous.</p>
+                <p class='a'><strong>TUNDE</strong> I don’t have it yet! I want to do something really trifling and name it something like, “#ratchetry.” Just something ridiculous.</p>
 
                 <p><strong>LD</strong> If you could collaborate with any artist, who would it be?</p>
                 <p class='a'><strong>TUNDE</strong> Locally, I want to work with Monica Blair. She’s just a really cool person and she’s so talented. She’s just raw, you feel really affected when she sings. She’s also a really cool rapper. I’d love to do something with her that’s a hybrid of that. And then dream, something that will probably never happen would be Switch, who was a producer that worked in Major Lazer. He did all of Santigold’s stuff and does really amazing production. I’d love to work with him and do a whole album. Maybe if I win the lottery.</p>
@@ -123,7 +123,7 @@
             <div class='col col_12 last gallery_link c'>
             <h3>Tunde Olaniran</h3>
             <h1>LIVE</h1>
-            <p>Saturday, April 20th at the Majestic Theater</p>
+            <p>Saturday, April 20th at The Majestic</p>
             <a class='btn link_btn col_2 col_offset_5' href='/music/detail.php?id=2013_04_10_Dale%20Earnhardt%20Jr_Jr'>Details</a>
             </div>
         </div>
