@@ -13,7 +13,7 @@
             <div class='col col_12 masthead last'>
             <?php
                 $masthead_items = array(
-                    array('2013_02_life_coffee.jpg','/2013/02/life/coffee.php','The Daily Grind','Favorite spots to eat, drink, and explore')
+                    array('2013_02_life_coffee.jpg','/2013/02/life/coffee.php','The Daily Grind','The perfect cup of coffee for any day of the week')
                 );
 
                 drawMasthead($masthead_items);
