@@ -41,7 +41,7 @@
                 <div class='col col_12 masthead last'>
                     <div class='masthead_items'>
                         <div class='masthead_item dark_masthead c'>
-                                <h2><?php print $event->masthead ?></h2>
+                                <h2><?php print ($event->masthead) ? $event->masthead : $event->name; ?></h2>
                         </div>
                     </div>
                 </div>

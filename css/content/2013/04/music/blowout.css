@@ -1,0 +1,44 @@
+
+
+    .intro .title {
+        height: auto;
+    }
+
+    .intro .title h1 {
+        font-size: 150px;
+        line-height: 140px;
+        text-align: center;
+        padding: 128px 0 64px;
+        margin: 0;
+        color: #000;
+        }
+
+    .intro  h4 {
+        padding: 64px 0;
+        font-size: 32px;
+        }
+
+
+.opinions {
+    padding-top: 64px;
+    }
+    
+    .opinions h5 { font-family: foundation_sans_cdbold; }
+    .opinions h6 { font-size: 20px; padding-bottom: 16px; }
+
+    .sq {
+            display: inline-block;
+            width: 100%;
+            font-family: foundation_sans_cdbold;
+            text-align: center;
+            color: #ff0000;
+            font-size: 32px;
+            padding: 16px 0 0px;
+        }
+
+
+.schedule {
+    padding: 64px 0;
+    border-bottom: 1px solid #ccc;
+    }
+    
