@@ -1,6 +1,6 @@
 <?php
     $page = array(
-        'id' => '2013_04_blowout',
+        'id' => '2013_04_music_blowout',
         'title' => 'Blowout',
         'class' => 'music',
         'content_css' => true

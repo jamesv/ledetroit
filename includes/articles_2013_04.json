@@ -17,6 +17,14 @@
         "url":  "/2013/04/music/tunde.php",
         "cat":  "Music"
     },
+    "2013_04_music_blowout": {
+        "name": "Blowout",
+        "sub":  "Your guide to the massive music fest, courtesy of the ones who are playing it.",
+        "url":  "/2013/04/music/blowout.php",
+        "cat":  "Music",
+        "no_caption": true
+    },
+    
     
     "2013_04_femme_flats": {
         "name": "A little spring in your step",

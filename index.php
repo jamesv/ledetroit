@@ -33,14 +33,15 @@
 
                     <?php
                         $grid_articles = array(
-                            array('about_us',4),
+                            array('2013_04_music_blowout',4),
                             array('2013_04_music_tunde',8),
                             array('2013_04_femme_flats',4),
                             array('2013_04_femme_rain',4),
                             array('2013_04_homme_socks',4),
                             array('2013_04_homme_jackets',4),
-                            array('2013_04_music_handgrenades',4),
-                            array('2013_04_life_handgrenades_gallery',4)
+                            array('2013_04_music_handgrenades',8),
+                            array('2013_04_life_handgrenades_gallery',4),
+                            array('about_us',4),
 
                         );
                         drawArticlesGrid($grid_articles);
