@@ -1,0 +1,40 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-size: 180px;
+        line-height: 150px;
+        text-align: center;
+        padding: 128px 0 64px;
+        letter-spacing: 6px;
+        margin: 0;
+        }
+        
+        .intro  p {
+            text-align: left;
+            }
+
+    
+.callout_row {
+    margin-bottom: 0px;
+}
+
+p.big { letter-spacing: 1px; }
+
+        
+#nike .content { padding-top: 160px; }
+#nike  { height: 540px; background: url('/img/content/2013/05/style/shoes_001.jpg') no-repeat bottom center; }
+
+#onitsuko .content { padding-top: 160px; }
+#onitsuko  { height: 540px; background: url('/img/content/2013/05/style/shoes_002.jpg') no-repeat bottom center; }
+
+#vans .content { padding-top: 160px; }
+#vans  { height: 540px; background: url('/img/content/2013/05/style/shoes_003.jpg') no-repeat bottom center; }
+
+#converse .content { padding-top: 160px; }
+#converse  { height: 540px; background: url('/img/content/2013/05/style/shoes_004.jpg') no-repeat bottom center; }
+
+#adidas .content { padding-top: 80px; }
+#adidas  { height: 540px; background: url('/img/content/2013/05/style/shoes_005.jpg') no-repeat bottom center; }

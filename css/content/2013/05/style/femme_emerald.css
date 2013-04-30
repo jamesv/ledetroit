@@ -1,0 +1,62 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-family: 'foundation_sans_cd_ltregular';
+        font-size: 180px;
+        line-height: 150px;
+        text-align: center;
+        padding: 128px 0 64px;
+        letter-spacing: 6px;
+        margin: 0;
+        }
+        
+        .intro .title h1 .l_1{ color: #66ff00; }
+        .intro .title h1 .l_2{ color: #0dc4b9; }
+        .intro .title h1 .l_3{ color: #00ff96; }
+        .intro .title h1 .l_4{ color: #23b777; }
+        .intro .title h1 .l_5{ color: #39cb06; }
+        
+        
+        .intro  p {
+            text-align: left;
+            }
+
+    
+.callout_row {
+    margin-bottom: 0px;
+}
+
+p.big { letter-spacing: 1px; }
+
+.product h4 {
+    font-family: 'foundation_sans_cd_ltregular';
+    text-align: center;
+    font-size: 60px;
+}
+        
+#emerald_001 h4 {padding-top: 340px; color: #66ff00;}
+#emerald_001  { height: 540px; background: url('/img/content/2013/05/style/emerald_001.jpg') no-repeat bottom center; }
+
+#emerald_002 h4 {padding-top: 275px; color: #0dc4b9;}
+#emerald_002  { height: 540px; background: url('/img/content/2013/05/style/emerald_002.jpg') no-repeat bottom center; }
+
+#emerald_003 h4 {padding-top: 200px; color: #00ff96;}
+#emerald_003  { height: 540px; background: url('/img/content/2013/05/style/emerald_003.jpg') no-repeat bottom center; }
+
+#emerald_004 h4 {padding-top: 240px; color: #23b777;}
+#emerald_004  { height: 540px; background: url('/img/content/2013/05/style/emerald_004.jpg') no-repeat bottom center; }
+
+#emerald_005 h4 {padding-top: 220px; color: #39cb06;}
+#emerald_005  { height: 540px; background: url('/img/content/2013/05/style/emerald_005.jpg') no-repeat bottom center; }
+
+#emerald_006 h4 {padding-top: 200px; color: #00ff96;}
+#emerald_006  { height: 540px; background: url('/img/content/2013/05/style/emerald_006.jpg') no-repeat bottom center; }
+
+#emerald_007 h4 {padding-top: 100px; color: #00ff96;}
+#emerald_007  { height: 540px; background: url('/img/content/2013/05/style/emerald_007.jpg') no-repeat bottom center; }
+
+#emerald_008 h4 {padding-top: 200px; color: #39cb06;}
+#emerald_008  { height: 540px; background: url('/img/content/2013/05/style/emerald_008.jpg') no-repeat bottom center; }

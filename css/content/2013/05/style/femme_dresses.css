@@ -1,0 +1,53 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-family: 'foundation_sans_cd_ltregular';
+        font-size: 180px;
+        line-height: 180px;
+        text-align: center;
+        padding: 128px 0 64px;
+        margin: 0;
+        }
+        
+        .intro  p {
+            text-align: left;
+            }
+
+h2 {
+    font-size: 72px;
+    color: #fff;
+    }
+    
+.callout_row {
+    margin-bottom: 0px;
+}
+
+        
+#florals .content { padding-top: 160px; }
+#florals  { height: 540px; background: url('/img/content/2013/05/style/dresses_floral.jpg') no-repeat bottom center; }
+
+#lace .content { padding-top: 160px; }
+#lace  { height: 540px; background: url('/img/content/2013/05/style/dresses_lace.jpg') no-repeat bottom center; }
+
+#bold_prints .content { padding-top: 160px; }
+#bold_prints  { height: 540px; background: url('/img/content/2013/05/style/dresses_bold_prints.jpg') no-repeat bottom center; }
+
+#graphic_black_white .content { padding-top: 100px; }
+#graphic_black_white h2 {color: #e51d76;}
+#graphic_black_white  { height: 540px; background: url('/img/content/2013/05/style/dresses_graphic_black_white.jpg') no-repeat bottom center; }
+
+#cool_blues .content { padding-top: 160px; }
+#cool_blues  { height: 540px; background: url('/img/content/2013/05/style/dresses_cool_blues.jpg') no-repeat bottom center; }
+
+#stripes .content { padding-top: 160px; }
+#stripes h2 {color: #e51d76;}
+#stripes  { height: 540px; background: url('/img/content/2013/05/style/dresses_stripes.jpg') no-repeat bottom center; }
+
+#cool_blues_b .content { padding-top: 160px; }
+#cool_blues_b  { height: 540px; background: url('/img/content/2013/05/style/dresses_cool_blues_b.jpg') no-repeat bottom center; }
+
+#peplum .content { padding-top: 160px; }
+#peplum  { height: 540px; background: url('/img/content/2013/05/style/dresses_peplum.jpg') no-repeat bottom center; }
