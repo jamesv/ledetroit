@@ -545,8 +545,9 @@ h6 { font-family: foundation_sans_cd_ltregular; text-transform: uppercase; font-
     Utils
 */
 .gutter_top { margin-top: 16px; }
-.c {text-align: center; }
-.r {text-align: right; }
+.c {text-align: center !important; }
+.l {text-align: left !important; }
+.r {text-align: right !important; }
 .uc {text-transform: uppercase;}
 .hide {display: none;}
 .nobreak {column-break-inside: avoid; display: inline-block;}

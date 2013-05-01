@@ -1,0 +1,36 @@
+.intro {
+    height: 980px;
+    background: url('/img/content/2013/05/style/ties.jpg') no-repeat bottom center; 
+    position: relative;
+}
+
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        font-size: 180px;
+        line-height: 150px;
+        text-align: center;
+        padding: 256px 0 64px;
+        letter-spacing: 6px;
+        margin: 0;
+        }
+        
+p.big {
+    letter-spacing: 1px; 
+    line-height: 36px;
+    width: 316px; 
+    position: absolute;
+    top: 520px;
+    left: 83px;
+    color: #fff;
+    }
+
+
+    #info {
+        position: absolute;
+        bottom: 0px;
+        right: 16px;
+        color: #fff;
+        }
