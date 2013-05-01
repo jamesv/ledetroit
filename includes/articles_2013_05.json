@@ -1,0 +1,38 @@
+{
+    "2013_05_femme_emerald": {
+        "name": "Go Green",
+        "sub":  "Say hello to Pantone’s 2013 Color of the Year: Emerald.",
+        "url":  "/2013/05/style/femme_emerald.php",
+        "cat":  "Femme"
+    },
+    "2013_05_femme_dresses": {
+        "name": "Best Dressed",
+        "sub":  "The top warm-weather summoning looks that make the season’s trends feel effortlessly wearable.",
+        "url":  "/2013/05/style/femme_dresses.php",
+        "cat":  "Femme"
+    },
+    
+    "2013_05_homme_shoes": {
+        "name": "Sneak Attack",
+        "sub":  "We did a little sole searching for the spring.",
+        "url":  "/2013/05/style/homme_shoes.php",
+        "cat":  "Homme"
+    },
+    "2013_05_homme_ties": {
+        "name": "The Summer Tie",
+        "sub":  "Keep things cool, or go bold this summer.",
+        "url":  "/2013/05/style/homme_ties.php",
+        "cat":  "Homme"
+    },
+    
+    
+    "2013_05_life_tacos": {
+        "name": "The Atacolypse",
+        "sub":  "In honor of Cinco de Mayo, Dave Graw and Derek Swanson of Solid Dudes Kitchen take on the best tacos in town—all in a single afternoon.",
+        "url":  "/2013/05/life/tacos.php",
+        "cat":  "Life"
+    }
+    
+    
+    
+}

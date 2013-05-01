@@ -14,10 +14,10 @@
                 <?php
                     $masthead_items = array(
                         array('2013_04_tunde.jpg','/2013/04/music/tunde.php','Music','Tunde Olaniran',),
-                        array('2013_04_femme_rain.jpg','/2013/04/style/femme_rain.php','Femme','Rain gear that makes rainy days less dreary'),
-                        array('2013_04_homme_jackets.jpg','/2013/04/style/homme_jackets.php','Homme','The Spring Jacket'),
+                        array('2013_05_femme_emerald.jpg','/2013/05/style/femme_emerald.php','Femme','Go Green'),
+                        array('2013_05_homme_shoes.jpg','/2013/05/style/homme_shoes.php','Homme','Sneak Attack'),
                         array('2013_04_music_handgrenades.jpg','/2013/04/music/the_handgrenades.php','Music','The HandGrenades',),
-                        array('2013_02_life_coffee.jpg','/2013/02/life/coffee.php','Life','The Daily Grind')
+                        array('2013_05_life_tacos.jpg','/2013/05/life/tacos.php','Life','The Atacolypse')
                     );
                     
                     drawMasthead($masthead_items);
@@ -25,6 +25,25 @@
                 </div>
                 
                 <div id='months'>
+
+                <div id='month_2013_05' class='month'>
+                    <div class='col col_12 last'>
+                        <h3 class='date'>May 2013</h3>
+                    </div>
+
+                    <?php
+                        $grid_articles = array(
+                            array('about_us',4),
+                            array('2013_05_life_tacos',8),
+                            array('2013_05_homme_ties',4),
+                            array('2013_05_homme_shoes',4),
+                            array('2013_05_femme_dresses',4),
+                            array('2013_05_femme_emerald',8)
+                        );
+                        drawArticlesGrid($grid_articles);
+                    ?>
+                </div>
+
                 
                 <div id='month_2013_04' class='month'>
                     <div class='col col_12 last'>

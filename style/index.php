@@ -15,8 +15,10 @@
             <div class='col col_12 masthead last'>
             <?php
                 $masthead_items = array(
-                    array('2013_04_femme_rain.jpg','/2013/04/style/femme_rain.php','Femme','Rain gear that makes rainy days less dreary'),
-                    array('2013_04_homme_jackets.jpg','/2013/04/style/homme_jackets.php','Homme','The Spring Jacket')
+                    array('2013_05_femme_emerald.jpg','/2013/05/style/femme_emerald.php','Femme','Go Green'),
+                    array('2013_05_homme_shoes.jpg','/2013/05/style/homme_shoes.php','Homme','Sneak Attack')
+                    
+                    
                 );
             
                 drawMasthead($masthead_items);
@@ -25,6 +27,13 @@
         
             <?php
                 $grid_articles = array(
+
+                    array('2013_05_femme_emerald',4),
+                    array('2013_05_femme_dresses',4),
+                    array('2013_05_homme_shoes',4),
+                    array('2013_05_homme_ties',4),
+
+
                     array('2013_04_femme_flats',4),
                     array('2013_04_femme_rain',4),
                     array('2013_04_homme_socks',4),

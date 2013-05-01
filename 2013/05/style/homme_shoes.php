@@ -14,8 +14,8 @@
     <div class='cols ac intro gutter_top'>
 
         <div class='title'><h1>Sneak<br/>Attack</h1></div>
-        <h4 class='col col_10 col_offset_1 last'>we go sole searching for the spring</h4>
-        <div class='ac'><p class='col col_6 col_offset_3 last'>XXX</p></div>
+        <div class='ac'>
+        <h4 class='ac col col_10 col_offset_1 last'>We did a little sole searching for the spring</h4></div>
         <div class='photographer'>Chris Arace</div> 
     </div>
     

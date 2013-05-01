@@ -15,10 +15,12 @@ function array_to_object($array) {
 $articles_global_json = file_get_contents($doc_root .'/includes/articles_global.json');
 $articles_2013_02_json = file_get_contents($doc_root .'/includes/articles_2013_02.json');
 $articles_2013_04_json = file_get_contents($doc_root .'/includes/articles_2013_04.json');
+$articles_2013_05_json = file_get_contents($doc_root .'/includes/articles_2013_05.json');
 $GLOBALS['decoded_articles'] = array_merge_recursive(
     json_decode($articles_global_json, true),
     json_decode($articles_2013_02_json, true),
-    json_decode($articles_2013_04_json, true)
+    json_decode($articles_2013_04_json, true),
+    json_decode($articles_2013_05_json, true)
 );
 
 $GLOBALS['decoded_articles'] = array_to_object($GLOBALS['decoded_articles']);
@@ -267,14 +269,14 @@ function fin($id, $light=false) {
     $fin .= "</div>";
     
     $featured_articles_wide = array(
-        array('2013_04_music_handgrenades',8),
-        array('2013_04_music_tunde',8)
+        array('2013_05_life_tacos',8),
+        array('2013_05_femme_emerald',8),
+        array('2013_05_music_tunde',8)
     );
     $featured_articles_narrow = array(
-        array('2013_04_homme_socks',4),
-        array('2013_04_homme_jackets',4),
-        array('2013_04_femme_rain',4),
-        array('2013_04_femme_flats',4)
+        array('2013_05_homme_shoes',4),
+        array('2013_05_homme_ties',4),
+        array('2013_05_femme_dresses',4)
 
     );    
     $featured_articles = array($featured_articles_wide[array_rand($featured_articles_wide)], $featured_articles_narrow[array_rand($featured_articles_narrow)]);

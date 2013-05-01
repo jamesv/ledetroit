@@ -36,8 +36,9 @@
         </div>
     </div>
     <div class='callout_row'>
-        <span><strong>xxx</strong> $xx</span>
-        <strong>Available at:</strong> xxx
+        <span><strong>Shoes</strong> $49.50</span>
+        <span><strong>Pants</strong> $49.50</span>
+        <strong>Available at:</strong> Gap
     </div>
     </div>
 
@@ -49,8 +50,8 @@
         </div>
     </div>
     <div class='callout_row'>
-        <span><strong>xxx</strong> $xx</span>
-        <strong>Available at:</strong> xxx
+        <span><strong>Shirt</strong> $22</span>
+        <strong>Available at:</strong> Pitaya
     </div>
     </div>
 
@@ -62,8 +63,8 @@
         </div>
     </div>
     <div class='callout_row'>
-        <span><strong>xxx</strong> $xx</span>
-        <strong>Available at:</strong> xxx
+        <span><strong>Eyeliner</strong> $22</span>
+        <strong>Available at:</strong> Sephora
     </div>
     </div>
 
@@ -76,8 +77,8 @@
         </div>
     </div>
     <div class='callout_row'>
-        <span><strong>xxx</strong> $xx</span>
-        <strong>Available at:</strong> xxx
+        <span><strong>Clutch</strong> $52</span>
+        <strong>Available at:</strong> Complex
     </div>
     </div>
 
@@ -90,8 +91,8 @@
         </div>
     </div>
     <div class='callout_row'>
-        <span><strong>xxx</strong> $xx</span>
-        <strong>Available at:</strong> xxx
+        <span><strong>Lace Top</strong> $88</span>
+        <strong>Available at:</strong> Anthropologie
     </div>
     </div>
 
@@ -104,22 +105,22 @@
         </div>
     </div>
     <div class='callout_row'>
-        <span><strong>xxx</strong> $xx</span>
-        <strong>Available at:</strong> xxx
+        <span><strong>Necklace</strong> $40</span>
+        <strong>Available at:</strong> Complex
     </div>
     </div>
 
 
     <!-- 008 -->
     <div id='emerald_008' class='cols product ac'>
-        <h4 class='col col_12 last'>xxx</h4>
+        <h4 class='col col_12 last'>Missing your Mad Men fix?</h4>
         <div class='col col_6 col_offset_6 content last'>
-            <p class='big'>xxx</p>
+            <p class='big'>This little number could easily adorn Joan Holloway in the halls of SCDP. It will compliment those curves and it’s a gorgeous color, of course.</p>
         </div>
     </div>
     <div class='callout_row'>
-        <span><strong>xxx</strong> $xx</span>
-        <strong>Available at:</strong> xxx
+        <span><strong>Dress</strong> $172</span>
+        <strong>Available at:</strong> Emerald
     </div>
     </div>
 

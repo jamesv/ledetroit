@@ -13,7 +13,7 @@
         <div class='col col_12 masthead last'>
         <?php
             $masthead_items = array(
-                array('2013_03_life_beer.jpg','/2013/03/life/beer.php','Cheers','Our taste testers go on a quest to find beers worth celebrating')
+                array('2013_05_life_tacos.jpg','/2013/05/life/tacos.php','The Atacolypse','A Taco Tour with Solid Dudes Kitchen')
             );
             
             drawMasthead($masthead_items);
@@ -25,10 +25,12 @@
             
             <?php
                 $grid_articles = array(
+
+                    array('2013_03_beer',4),
+                    array('2013_02_coffee',8),
                     array('2013_04_life_handgrenades_gallery',4),
-                    array('2013_02_coffee',4),
                     array('2013_02_objects_of_desire',4),
-                    array('2013_02_the_hounds_below_gallery',8)
+                    array('2013_02_the_hounds_below_gallery',4)
                 );
                 drawArticlesGrid($grid_articles);
             ?>
