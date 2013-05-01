@@ -36,6 +36,7 @@ h6 { font-family: foundation_sans_cd_ltregular; text-transform: uppercase; font-
 .list span { font-family: Arial; font-size: 12px; color: #ccc;}
 .bon, .list .bon { font-family: Arial; font-size: 18px; font-weight: bold; text-decoration: none; z-index: 99; position: relative;}
 .list .bon { font-size: 14px;}
+.u { text-decoration: underline; }
 
 .inset_title { padding-left: 16px; display: inline-block; }
 

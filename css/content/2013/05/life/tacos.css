@@ -1,0 +1,33 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-size: 180px;
+        line-height: 150px;
+        text-align: center;
+        padding: 128px 0 64px;
+        letter-spacing: 6px;
+        margin: 0;
+        }
+        
+        .intro  p {
+            text-align: justify;
+            }
+
+    
+.callout_row {
+    margin-bottom: 0px;
+}
+
+
+.row { margin-bottom: 128px; }
+.row_l { margin-bottom: 0px; }
+
+p.big { letter-spacing: 1px; }
+p.order { padding: 32px 0 24px; }
+
+.product h2 {
+    padding: 64px 0;
+}
