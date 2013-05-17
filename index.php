@@ -17,7 +17,7 @@
                         array('2013_05_femme_emerald.jpg','/2013/05/style/femme_emerald.php','Femme','Go Green'),
                         array('2013_05_homme_shoes.jpg','/2013/05/style/homme_shoes.php','Homme','Sneak Attack'),
                         array('2013_04_music_handgrenades.jpg','/2013/04/music/the_handgrenades.php','Music','The HandGrenades',),
-                        array('2013_05_life_tacos.jpg','/2013/05/life/tacos.php','Life','The Atacolypse')
+                        array('2013_05_life_innerstate.jpg','/2013/05/life/inner_state.php','Life','Inner State Gallery')
                     );
                     
                     drawMasthead($masthead_items);
@@ -34,7 +34,8 @@
                     <?php
                         $grid_articles = array(
                             array('about_us',4),
-                            array('2013_05_life_tacos',8),
+                            array('2013_05_life_innerstate',8),
+                            array('2013_05_life_tacos',4),
                             array('2013_05_homme_ties',4),
                             array('2013_05_homme_shoes',4),
                             array('2013_05_femme_dresses',4),

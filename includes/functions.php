@@ -269,6 +269,7 @@ function fin($id, $light=false) {
     $fin .= "</div>";
     
     $featured_articles_wide = array(
+        array('2013_05_life_innerstate',8),
         array('2013_05_life_tacos',8),
         array('2013_05_femme_emerald',8),
         array('2013_04_music_tunde',8)
