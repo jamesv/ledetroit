@@ -28,6 +28,9 @@
         text-align: justify;
         }
         
+    p.big {
+        font-size: 21px;
+        }    
         
     .product h2 {
         padding: 0px;
@@ -41,4 +44,4 @@
         .p_cols_2 em {
             text-transform: uppercase;
             font-family: foundation_sans_cd_ltregular;
-        }
+            }
