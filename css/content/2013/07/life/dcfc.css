@@ -1,0 +1,44 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-size: 180px;
+        line-height: 150px;
+        text-align: center;
+        padding: 128px 0 64px;
+        letter-spacing: 6px;
+        margin: 0;
+        }
+        
+        .intro  h4 {
+            font-size: 32px;
+        }
+        
+        .intro  p {
+            text-align: left;
+            }
+
+    .product {
+        margin-bottom: 128px;
+        }
+
+    .product p {
+        text-align: justify;
+        }
+        
+        
+    .product h2 {
+        padding: 0px;
+        margin: 0px;
+        }
+
+        .p_cols_2 div {
+            display: inline-block;
+            }
+            
+        .p_cols_2 em {
+            text-transform: uppercase;
+            font-family: foundation_sans_cd_ltregular;
+        }
