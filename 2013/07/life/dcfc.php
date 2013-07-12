@@ -76,7 +76,7 @@
         <p>“Playing for these fans is just incredible,” adds central mid-fielder Latif Alashe. “They bring so much energy to every game and make playing a Cass Tech such an interesting and fun experience.”</p>
         <p>Between the hard work of supporter groups, word of mouth from casual fans and, most recently, a lot of local media coverage, the news has spread. So much so that each home game brings a new, record-breaking crowd. “I think a lot of hard work is paying off,” says Butcher. “We have literally busted our butts to bring attention to DCFC. We want the news to travel far and wide that this is the hottest club in the Midwest, and if you miss out you will regret it.”</p>
         <p>You heard the man. Playoffs begin Saturday, July 13 at Cass Tech. Be there or miss out.</p>
-        <p><em>For tickets and game day info, head to Detroitcityfc.com.</em></p>
+        <p><em>For tickets and game day info, head to <a href='http://detcityfc.com'>detcityfc.com</a>.</em></p>
         </div>
         </div>
     </div>
