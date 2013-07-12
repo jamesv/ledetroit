@@ -16,11 +16,13 @@ $articles_global_json = file_get_contents($doc_root .'/includes/articles_global.
 $articles_2013_02_json = file_get_contents($doc_root .'/includes/articles_2013_02.json');
 $articles_2013_04_json = file_get_contents($doc_root .'/includes/articles_2013_04.json');
 $articles_2013_05_json = file_get_contents($doc_root .'/includes/articles_2013_05.json');
+$articles_2013_q3_json = file_get_contents($doc_root .'/includes/articles_2013_q3.json');
 $GLOBALS['decoded_articles'] = array_merge_recursive(
     json_decode($articles_global_json, true),
     json_decode($articles_2013_02_json, true),
     json_decode($articles_2013_04_json, true),
-    json_decode($articles_2013_05_json, true)
+    json_decode($articles_2013_05_json, true),
+    json_decode($articles_2013_q3_json, true)
 );
 
 $GLOBALS['decoded_articles'] = array_to_object($GLOBALS['decoded_articles']);

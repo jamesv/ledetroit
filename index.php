@@ -13,11 +13,12 @@
                 <div class='col col_12 masthead last'>
                 <?php
                     $masthead_items = array(
+                        array('2013_07_life_dcfc.jpg','/2013/07/life/dcfc.php','Life','Allez Le Rouge'),
                         array('2013_04_tunde.jpg','/2013/04/music/tunde.php','Music','Tunde Olaniran',),
                         array('2013_05_femme_emerald.jpg','/2013/05/style/femme_emerald.php','Femme','Go Green'),
                         array('2013_05_homme_shoes.jpg','/2013/05/style/homme_shoes.php','Homme','Sneak Attack'),
-                        array('2013_04_music_handgrenades.jpg','/2013/04/music/the_handgrenades.php','Music','The HandGrenades',),
-                        array('2013_05_life_innerstate.jpg','/2013/05/life/inner_state.php','Life','Inner State Gallery')
+                        array('2013_04_music_handgrenades.jpg','/2013/04/music/the_handgrenades.php','Music','The HandGrenades',)
+
                     );
                     
                     drawMasthead($masthead_items);
@@ -27,19 +28,18 @@
                 <div id='months'>
 
                 <div id='month_2013_05' class='month'>
-                    <div class='col col_12 last'>
-                        <h3 class='date'>May 2013</h3>
-                    </div>
+
 
                     <?php
                         $grid_articles = array(
                             array('about_us',4),
-                            array('2013_05_life_innerstate',8),
+                            array('2013_07_life_dcfc',4),
                             array('2013_05_life_tacos',4),
+                            array('2013_05_life_innerstate',8),
                             array('2013_05_homme_ties',4),
                             array('2013_05_homme_shoes',4),
                             array('2013_05_femme_dresses',4),
-                            array('2013_05_femme_emerald',8)
+                            array('2013_05_femme_emerald',4)
                         );
                         drawArticlesGrid($grid_articles);
                     ?>
@@ -47,9 +47,6 @@
 
                 
                 <div id='month_2013_04' class='month'>
-                    <div class='col col_12 last'>
-                        <h3 class='date'>April 2013</h3>
-                    </div>
 
                     <?php
                         $grid_articles = array(
@@ -69,9 +66,7 @@
                 </div>
 
                 <div id='month_2013_03' class='month'>
-                    <div class='col col_12 last'>
-                        <h3 class='date'>March 2013</h3>
-                    </div>
+
                 
                     <?php
                         $grid_articles = array(
