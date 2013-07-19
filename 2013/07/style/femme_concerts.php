@@ -1,7 +1,7 @@
 <?php
     $page = array(
         'id' => '2013_07_femme_concerts',
-        'title' => 'The Summer Suit',
+        'title' => 'Face the Music',
         'class' => 'style',
         'content_css' => true
     );
