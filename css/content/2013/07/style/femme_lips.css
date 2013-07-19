@@ -1,0 +1,33 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-family: 'foundation_sans_cd_ltregular';
+        font-size: 180px;
+        line-height: 180px;
+        text-align: center;
+        padding: 128px 0 64px;
+        margin: 0;
+        }
+        
+        .intro  p {
+            text-align: left;
+            }
+
+h2 {
+    font-size: 72px;
+    color: #fff;
+    }
+    
+.callout_row {
+    margin-bottom: 0px;
+}
+
+        
+#lips_01  { height: 540px; background: url('/img/content/2013/07/style/lips_01.jpg') no-repeat bottom center; }
+#lips_02  { height: 540px; background: url('/img/content/2013/07/style/lips_02.jpg') no-repeat bottom center; }
+#lips_03  { height: 540px; background: url('/img/content/2013/07/style/lips_03.jpg') no-repeat bottom center; }
+#lips_04  { height: 540px; background: url('/img/content/2013/07/style/lips_04.jpg') no-repeat bottom center; }
+

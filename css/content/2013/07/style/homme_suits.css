@@ -1,0 +1,44 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-family: 'foundation_sans_cdbold';
+        font-size: 180px;
+        line-height: 180px;
+        text-align: center;
+        padding: 128px 0 64px;
+        margin: 0;
+        }
+        
+        .intro  p {
+            text-align: left;
+            }
+            
+            .intro h4 {
+                font-family: 'foundation_sans_cdbold';
+                }
+
+h2 {
+    font-size: 72px;
+    color: #fff;
+    }
+    
+    
+.floated {
+    position: absolute;
+    }
+    
+    
+    .floated .big { background: #fff; padding: 16px; font-size: 23px; letter-spacing: 1px; text-align: left; }
+    .floated .noleft { padding-left: 0px; }
+    
+
+#suits_01,#suits_02,#suits_03,#suits_04 { position: relative; }
+
+#suits_01 .floated { right: 0px; top: 36px; text-align: right; }
+#suits_02 .floated { top: 16px; }
+#suits_03 .floated { right: 0px; top: 560px; text-align: right; }
+#suits_04 .floated { top: 560px; }
+    

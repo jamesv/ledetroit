@@ -4,6 +4,24 @@
         "sub":  "The Detroit City Football Club finally gives devoted soccer fans a home team to support. And they’re giving the team all they’ve got.",
         "url":  "/2013/07/life/dcfc.php",
         "cat":  "Life"
+    },
+    "2013_07_femme_lips": {
+        "name": "Bright Lips",
+        "sub":  "We gathered up four of our neon hues that will look smoking haute on all of you beauties.",
+        "url":  "/2013/07/style/femme_lips.php",
+        "cat":  "Femme"
+    },
+    "2013_07_femme_concerts": {
+        "name": "Face the Music",
+        "sub":  "Beat the heat and keep your style in check all concert season long.",
+        "url":  "/2013/07/style/femme_concerts.php",
+        "cat":  "Femme"
+    },
+    "2013_07_homme_suits": {
+        "name": "The Summer Suit",
+        "sub":  "One suit. Four ways to wear it (and stay cool).",
+        "url":  "/2013/07/style/homme_suits.php",
+        "cat":  "Homme"
     }
 
 }

@@ -14,11 +14,9 @@
                 <?php
                     $masthead_items = array(
                         array('2013_07_life_dcfc.jpg','/2013/07/life/dcfc.php','Life','Allez Le Rouge'),
-                        array('2013_04_tunde.jpg','/2013/04/music/tunde.php','Music','Tunde Olaniran',),
-                        array('2013_05_femme_emerald.jpg','/2013/05/style/femme_emerald.php','Femme','Go Green'),
-                        array('2013_05_homme_shoes.jpg','/2013/05/style/homme_shoes.php','Homme','Sneak Attack'),
-                        array('2013_04_music_handgrenades.jpg','/2013/04/music/the_handgrenades.php','Music','The HandGrenades',)
-
+                        array('2013_07_femme_lips.jpg','/2013/07/style/femme_lips.php','Femme','Bright Lips'),
+                        array('2013_07_homme_suits.jpg','/2013/07/style/homme_suits.php','Homme','The Summer Suit'),
+                        array('2013_07_femme_concerts.jpg','/2013/07/style/femme_music.php','Femme','Face the Music')
                     );
                     
                     drawMasthead($masthead_items);
@@ -33,13 +31,15 @@
                     <?php
                         $grid_articles = array(
                             array('about_us',4),
+                            array('2013_07_homme_suits',8),
+                            array('2013_07_femme_concerts',4),
                             array('2013_07_life_dcfc',4),
+                            array('2013_07_femme_lips',4),
                             array('2013_05_life_tacos',4),
                             array('2013_05_life_innerstate',8),
                             array('2013_05_homme_ties',4),
                             array('2013_05_homme_shoes',4),
-                            array('2013_05_femme_dresses',4),
-                            array('2013_05_femme_emerald',4)
+                            array('2013_05_femme_dresses',4)
                         );
                         drawArticlesGrid($grid_articles);
                     ?>
@@ -50,14 +50,15 @@
 
                     <?php
                         $grid_articles = array(
-                            array('2013_04_music_blowout',4),
+                            array('2013_05_femme_emerald',4),
                             array('2013_04_music_tunde',8),
+                            array('2013_04_music_blowout',4),
                             array('2013_04_femme_flats',4),
                             array('2013_04_femme_rain',4),
                             array('2013_04_homme_socks',4),
                             array('2013_04_homme_jackets',4),
-                            array('2013_04_music_handgrenades',8),
                             array('2013_04_life_handgrenades_gallery',4),
+                            array('2013_04_music_handgrenades',8),
                             array('about_us',4),
 
                         );

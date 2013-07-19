@@ -1,0 +1,51 @@
+.intro .title {
+    height: auto;
+    }
+    
+    .intro .title h1 {
+        color: #000;
+        font-family: 'foundation_sans_cd_ltregular';
+        font-size: 180px;
+        line-height: 180px;
+        text-align: center;
+        padding: 128px 0 64px;
+        margin: 0;
+        }
+        
+        .intro  p {
+            text-align: left;
+            }
+            
+            .intro h4 {
+                font-family: 'foundation_sans_cd_ltregular';
+                font-size: 26px;
+                }
+
+.callout_row {
+    border-top: none;
+    margin-bottom: 0px;
+    }
+
+h2 {
+    font-size: 72px;
+    color: #fff;
+    }
+    
+    
+.floated {
+    position: absolute;
+    }
+    
+
+    .footnote { color: #000;}    
+    .floated .big { background: #fff; padding: 16px; font-size: 23px; letter-spacing: 1px; text-align: left; }
+    .floated .noleft { padding-left: 0px; }
+    
+
+#concerts_01,#concerts_02,#concerts_03,#concerts_04,#concerts_05,#concerts_06 { position: relative; }
+
+#concerts_01 .floated { top: 360px;}
+#concerts_03 .floated { right: 0px; top: 560px;}
+#concerts_05 .floated { top: 0px;}
+#concerts_06 .floated { right: 0px; top: 200px;}
+

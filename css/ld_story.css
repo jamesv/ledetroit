@@ -43,6 +43,14 @@ p.big strong { font-family: foundation_sans_cdregular; text-transform: uppercase
     text-align: center;
     padding: 0 0 0 32px;
     }
+    
+    .product_p {
+        padding: 32px 0;
+        }
+        
+        .product_p p {
+            padding: 0px 16px;
+            }
 
 
 

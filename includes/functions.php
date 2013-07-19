@@ -271,15 +271,12 @@ function fin($id, $light=false) {
     $fin .= "</div>";
     
     $featured_articles_wide = array(
-        array('2013_05_life_innerstate',8),
-        array('2013_05_life_tacos',8),
-        array('2013_05_femme_emerald',8),
-        array('2013_04_music_tunde',8)
+        array('2013_07_homme_suits',8),
     );
     $featured_articles_narrow = array(
-        array('2013_05_homme_shoes',4),
-        array('2013_05_homme_ties',4),
-        array('2013_05_femme_dresses',4)
+        array('2013_07_femme_lips',4),
+        array('2013_07_femme_concerts',4),
+        array('2013_07_life_dcfc',4)
 
     );    
     $featured_articles = array($featured_articles_wide[array_rand($featured_articles_wide)], $featured_articles_narrow[array_rand($featured_articles_narrow)]);
