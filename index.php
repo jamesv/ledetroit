@@ -16,7 +16,7 @@
                         array('2013_07_life_dcfc.jpg','/2013/07/life/dcfc.php','Life','Allez Le Rouge'),
                         array('2013_07_femme_lips.jpg','/2013/07/style/femme_lips.php','Femme','Bright Lips'),
                         array('2013_07_homme_suits.jpg','/2013/07/style/homme_suits.php','Homme','The Summer Suit'),
-                        array('2013_07_femme_concerts.jpg','/2013/07/style/femme_music.php','Femme','Face the Music')
+                        array('2013_07_femme_concerts.jpg','/2013/07/style/femme_concerts.php','Femme','Face the Music')
                     );
                     
                     drawMasthead($masthead_items);
